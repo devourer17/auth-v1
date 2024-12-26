@@ -1,0 +1,6 @@
+org/testsuite/auth/controllers/UserController.class
+org/testsuite/auth/service/UserService.class
+org/testsuite/auth/entities/jpa/BaseEntity.class
+org/testsuite/auth/entities/jpa/User.class
+org/testsuite/auth/repository/jpa/UserRepository.class
+org/testsuite/auth/Runner.class

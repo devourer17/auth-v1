@@ -1,0 +1,6 @@
+/Users/vps/Documents/GitHub/auth-v1/auth-service/src/main/java/org/testsuite/auth/Runner.java
+/Users/vps/Documents/GitHub/auth-v1/auth-service/src/main/java/org/testsuite/auth/controllers/UserController.java
+/Users/vps/Documents/GitHub/auth-v1/auth-service/src/main/java/org/testsuite/auth/entities/jpa/BaseEntity.java
+/Users/vps/Documents/GitHub/auth-v1/auth-service/src/main/java/org/testsuite/auth/entities/jpa/User.java
+/Users/vps/Documents/GitHub/auth-v1/auth-service/src/main/java/org/testsuite/auth/repository/jpa/UserRepository.java
+/Users/vps/Documents/GitHub/auth-v1/auth-service/src/main/java/org/testsuite/auth/service/UserService.java
